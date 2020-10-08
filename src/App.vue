@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Deploy Vue App Vercel" />
+    <HelloWorld msg="Deploy Vue App With Vercel" />
   </div>
 </template>
 
